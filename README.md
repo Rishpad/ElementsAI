@@ -27,4 +27,9 @@ Hospitals input payment timelines, patient inflow, and pending insurance claims.
 
 Images will make your README look nice!  
 Once you upload an image to your repository, you can link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Hospital](https://upload.wikimedia.org/)
+![Hospital](https://upload.wikimedia.org/wikipedia/commons/7/7d/Hospital_icon.svg)
+
+If you need to resize images, you have to use an HTML tag, like this:  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hospital_icon.svg" width="300">
+
+This is how you create code examples:
